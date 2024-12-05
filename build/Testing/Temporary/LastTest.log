@@ -1,0 +1,19 @@
+Start testing: Nov 10 22:01 Central Standard Time
+----------------------------------------------------------
+Test not available without configuration.  (Missing "-C <config>"?)
+1/1 Testing: MyTest
+1/1 Test: MyTest
+Command: "NOT_AVAILABLE"
+Directory: E:/Nishan/Amir/project/build
+"MyTest" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MyTest" end time: Nov 10 22:01 Central Standard Time
+"MyTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 10 22:01 Central Standard Time
